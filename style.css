@@ -1,3 +1,11 @@
 p{
     color:red;
+text-align: center;
+}
+
+h1{
+    color:blue
+    text-align: right;/*alinhamento do texto*/
+    font: size 30px; /*tamanho da fonte*/
+
 }
