@@ -5,8 +5,9 @@ text-align: center;
 
 h1{
     color:blue;
-    text-align: right;/*alinhamento do texto*/
+    text-align: center;/*alinhamento do texto*/
     font: size 30px; /*tamanho da fonte*/
+    
 
 }
 #paragrafo1{
@@ -14,3 +15,4 @@ h1{
 }
 #paragrafo2{
     background-
+
