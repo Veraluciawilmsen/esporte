@@ -5,9 +5,14 @@ text-align: center;
 
 h1{
     color:blue;
+<<<<<<< HEAD
+    text-align: right;/*alinhamento do texto*/
+    font-size: 30px; /*tamanho da fonte*/
+=======
     text-align: center;/*alinhamento do texto*/
     font: size 30px; /*tamanho da fonte*/
     
+>>>>>>> 74144c4cbdc56ffdbb0cc843edda3c3981901735
 
 }
 #paragrafo1{
