@@ -14,8 +14,13 @@ h1{
     
 >>>>>>> 74144c4cbdc56ffdbb0cc843edda3c3981901735
 
-}
-.imagens{
+header{
+    font: size 32px;
+    background-color:darkorchid;
+    color: whitesmoke;
+    padding: 20px;
+    border-bottom: 5px red; 
+    .imagens{
     background-color: aqua;
 #paragrafo1{
     ...color: agua;
